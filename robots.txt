@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://fromagedegruyere.github.io/sitemap.xml
+Sitemap: https://FromageDeGruyere.github.io/sitemap.xml
