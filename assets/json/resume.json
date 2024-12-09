@@ -2,7 +2,7 @@
   "basics": {
     "name": "Albert Einstein",
     "label": "Scientist",
-    "image": "portrait.jpg",
+    "image": "assets/img/1.jpg",
     "email": "albert@einstein.de",
     "phone": "(912) 123-4567",
     "url": "https://alshedivat.github.io/al-folio/",
