@@ -2,26 +2,29 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='https://www.quitphysics.info/'>TU Wien</a> | PhD Student | Quantum Clocks | Thermodynamics | Equilibration
+subtitle: Postdoctoral Researcher | <a href="https://www.tuwien.at">Technische Universität Wien</a> | Vienna, Austria
 
 profile:
   align: right
-  image: prof_pic.png
+  image: portrait.jpg
   image_circular: false # crops the image to make it circular
-  more_info: >
-    <p>ZE 03 13, TU Wien</p>
-    <p>Stadionallee 2</p>
-    <p>1020, Wien, Austria</p>
 
-news: true # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true # includes social icons at the bottom of the page
+social: false # includes social icons at the bottom of the page
+
+announcements:
+  enabled: true # includes a list of news items
+  scrollable: false # adds a vertical scroll bar if there are more than 3 news items
+  limit: 1 # leave blank to include all the news in the `_news` folder
+
+latest_posts:
+  enabled: false
+  scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
+  limit: 3 # leave blank to include all the blog posts
 ---
 
-Hello
+Hi! Nice to see you have found my website. I'm Florian Meier, originally from Switzerland and currently postdoctoral researcher in the groups of Thomas Pohl (Institute for Theoretical Physics) and Maximilian Lock (Atominstitut) at the [Technische Universität Wien](https://www.tuwien.at).
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Staying true to my Swiss cultural heritage, nonsurprisingly, I do research on clocks, from a perspective of basic physical sciences. I care about the fundamental ingredients that nature requires for something to be a clock. The goal is that by understanding how good such an elementary clock tell the time, we learn something deep about the nature of time itself, but we are also informed of how we could potentially conceive new clocks that would otherwise be beyond our imagination.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
-
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+Blablabla, I intend to write more here, but this is just a temporary placeholder.

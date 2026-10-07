@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2015-10-22 15:59:00-0400
+date: 2026-09-21 00:00:00-0000
 inline: true
 related_posts: false
 ---
 
-A simple inline announcement.
+Together with Hayata Yamasaki (University Tokyo), we posted our preprint on a "Thermodynamic Proof of Quantumness Without Structure": [https://arxiv.org/abs/2609.25211](https://arxiv.org/abs/2609.25211)
