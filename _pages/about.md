@@ -34,4 +34,4 @@ This is what I mostly work on in my research, from the perspective of non-equili
 - How is computational performance, and how are computational notions of complexity related to physical thermodynamic quantities?
 - Can we find a fully self-contained, thermodynamic description for quantum control?
 
-**AI Statement:** Any text and figure you see on this website is of genuine human origin. I use Grammarly to de-Germanify my English writing. AI helped me configure the website theme, which is linked in the footer. We should gain sovereignty from the few AI monopolists and support open weight models. AI can never replace genuine human understanding.
+**AI Statement:** Any text and figure you see on this website is of genuine human origin. I use Grammarly to de-Germanify my English writing. AI helped me configure the website theme, which is linked in the footer. We should gain sovereignty from the few AI monopolists and support open weight models. Clankers can never replace genuine human understanding.
