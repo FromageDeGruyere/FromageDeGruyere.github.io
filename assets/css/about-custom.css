@@ -1,0 +1,15 @@
+/* Keep the about-page portrait compact beside the text on portrait phones. */
+@media (max-width: 575px) and (orientation: portrait) {
+  .site-about .profile {
+    width: 33%;
+  }
+
+  .site-about .profile.float-right {
+    float: right;
+    margin: 0 0 0.75rem 1rem;
+  }
+
+  .site-about .profile figure {
+    margin: 0;
+  }
+}
