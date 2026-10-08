@@ -27,8 +27,8 @@ overrides:
     gem_version: 1.0.15
     upstream_path: _layouts/about.liquid
     upstream_sha256: 2c28eb83b71fe65f252202c11f0b4a19a9b6f1faccdc870b4f91c4ea51d0c6f1
-    local_sha256: 47385e50b4e97f852d768d59f783659bf5a03202b0d572e6831cb3701395803e
-    acknowledged_at: '2026-10-07'
+    local_sha256: 277a78efe94ccce3741060a1bfd3fdcb383a546fd309f170e2b26d3d5244610c
+    acknowledged_at: '2026-10-08'
   _layouts/bib.liquid:
     owner: al_folio_core
     gem_version: 1.0.15
