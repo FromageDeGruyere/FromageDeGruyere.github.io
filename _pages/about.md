@@ -38,4 +38,5 @@ This is what I mostly work on in my research, using tools from non-equilibrium q
 - What is a quantum measurement really?
 - How is computational performance, and how are computational notions of complexity related to physical thermodynamic quantities?
 - Can we find a fully self-contained, thermodynamic description for quantum control?
+
 I will add a detailed research page soon.
