@@ -2,7 +2,7 @@
 layout: page
 permalink: /publications/
 title: publications
-description: Research publications and preprints by Florian Meier, postdoctoral researcher at TU Wien studying clocks and the nature of time.
+description: Research publications, preprints and theses by me (Florian Meier).
 nav: true
 nav_order: 2
 ---
