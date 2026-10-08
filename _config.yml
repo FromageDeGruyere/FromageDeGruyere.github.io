@@ -9,7 +9,7 @@ last_name: Meier
 contact_note: >
   You can even add a little note about which of these is the best way to reach you.
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  Florian Meier is a postdoctoral researcher at TU Wien studying the fundamental physics of clocks and the nature of time.
+  Greetings! I'm Florian Meier, a theoretical quantum physicist, working as PostDoc at TU Wien studying the fundamental physics of clocks and the nature of time.
 footer_text: >
   powered by <a href="https://jekyllrb.com/" target="_blank">jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme
 keywords: jekyll, jekyll-theme, academic-website, portfolio-website # add your own keywords or leave empty
