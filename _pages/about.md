@@ -25,6 +25,12 @@ latest_posts:
 
 Hi! Nice to see you have found my website. I'm Florian Meier, originally from Switzerland and currently postdoctoral researcher in the groups of Thomas Pohl (Institute for Theoretical Physics) and Maximilian Lock (Atominstitut) at the [Technische Universität Wien](https://www.tuwien.at).
 
-Staying true to my Swiss cultural heritage, nonsurprisingly, I do research on clocks, from a perspective of basic physical sciences. I care about the fundamental ingredients that nature requires for something to be a clock. The goal is that by understanding how good such an elementary clock tell the time, we learn something deep about the nature of time itself, but we are also informed of how we could potentially conceive new clocks that would otherwise be beyond our imagination.
+I research clocks, not only because I am from Switzerland, but because a better understanding of the fundamentals of timekeeping may teach us something deep about the nature of time itself. So, I try to understand them, not to sell them. The central question I have been thinking about is whether the physical laws of nature impose any limits on how precise a clock can be when subject to those constraints. In quantum mechanics, the uncertainty principle tells us that clocks can't be infinitely precise. With quantum mechanics as a time-reversal-invariant theory, however, we also cannot really describe all aspects of clocks. Clocks, as we know them, tick irreversibly forward in time, forcing us to think about clocks from a thermodynamic perspective.
 
-Blablabla, I intend to write more here, but this is just a temporary placeholder.
+This is what I mostly work on in my research, from the perspective of non-equilibrium quantum systems, stochastic thermodynamics, and many-body physics. Recently, I also started thinking about quantum time crystals, primarily because I wanted to understand them, not because of the hype. Other questions I care about are:
+- How can we reconcile macroscopic/coarse-grained equilibrium behavior with an underlying time-reversal symmetric (Schrödinger) description of quantum systems?
+- What is a quantum measurement really?
+- How is computational performance, and how are computational notions of complexity related to physical thermodynamic quantities?
+- Can we find a fully self-contained, thermodynamic description for quantum control?
+
+**AI Statement:** Any text and figure you see on this website is of genuine human origin. I use Grammarly to de-Germanify my English writing. AI helped me configure the website theme, which is linked in the footer. We should gain sovereignty from the few AI monopolists and support open weight models. AI can never replace genuine human understanding.
