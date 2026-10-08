@@ -78,5 +78,8 @@ layout: default
         {% include newsletter.liquid center=true %}
       {% endif %}
     {% endif %}
+    {% if page.ai_statement %}
+      <p class="mt-4"><strong>AI Statement:</strong> {{ page.ai_statement }}</p>
+    {% endif %}
   </article>
 </div>
