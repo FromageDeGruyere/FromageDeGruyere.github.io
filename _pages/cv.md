@@ -7,4 +7,7 @@ nav_order: 4
 toc: false
 cv_format: rendercv # options: rendercv, jsonresume
 description: Academic CV of Florian Meier, postdoctoral researcher at TU Wien, covering experience and education. Full CV available on request.
+show_description: false
 ---
+
+Full CV is available on reasonable request. Please contact me using the email address given below.
