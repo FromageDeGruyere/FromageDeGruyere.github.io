@@ -5,7 +5,7 @@ title: publications
 description: Research publications, preprints and theses by Florian Meier, researcher on quantum thermodynamics, timekeeping and computation.
 show_description: false
 nav: true
-nav_order: 2
+nav_order: 3
 ---
 
 <!-- _pages/publications.md -->

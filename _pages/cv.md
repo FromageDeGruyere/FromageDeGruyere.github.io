@@ -2,6 +2,7 @@
 layout: cv
 permalink: /cv/
 title: cv
+heading: CV # page heading; title stays lowercase for the navbar
 nav: true
 nav_order: 4
 toc: false

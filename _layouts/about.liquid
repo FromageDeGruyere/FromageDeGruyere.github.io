@@ -44,7 +44,9 @@ layout: default
 
     <!-- News -->
     {% if page.announcements and page.announcements.enabled %}
-      <h2>news</h2>
+      <h2>
+        <a href="{{ '/news/' | relative_url }}" style="color: inherit">News</a>
+      </h2>
       {% include news.liquid limit=true %}
     {% endif %}
 
@@ -58,7 +60,7 @@ layout: default
 
     <!-- Selected papers -->
     {% if page.selected_papers %}
-      <h2>selected publications</h2>
+      <h2>Selected publications</h2>
       {% include selected_papers.liquid %}
     {% endif %}
 
@@ -80,6 +82,9 @@ layout: default
     {% endif %}
     {% if page.ai_statement %}
       <p class="mt-4"><strong>AI Statement:</strong> {{ page.ai_statement }}</p>
+    {% endif %}
+    {% if page.random_disclaimer %}
+      <p class="mt-4"><strong>Random disclaimer:</strong> {{ page.random_disclaimer }}</p>
     {% endif %}
   </article>
 </div>

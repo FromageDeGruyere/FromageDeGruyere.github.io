@@ -15,7 +15,7 @@ layout: default
 
 <div class="post">
   <header class="post-header">
-    <h1 class="post-title">{{ page.title }}</h1>
+    <h1 class="post-title">{% if page.heading %}{{ page.heading }}{% else %}{{ page.title | slice: 0 | upcase }}{{ page.title | slice: 1, page.title.size }}{% endif %}</h1>
     <p class="post-meta">
       Created on {{ page.date | date: '%-d. %b %Y' }}
       {% if page.author %}by {{ page.author }}{% endif %}

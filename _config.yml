@@ -134,7 +134,7 @@ bing_site_verification: # out your bing-site-verification ID (Bing Webmaster)
 # Blog
 # -----------------------------------------------------------------------------
 
-blog_name: thoughts and opinions # blog_name will be displayed in your blog page
+blog_name: Thoughts and opinions # blog_name will be displayed in your blog page
 blog_description: # a short blog description
 permalink: /blog/:year/:title/
 lsi: false # produce an index for related posts
@@ -188,6 +188,9 @@ newsletter:
 collections:
   news:
     output: false # show announcements on the about page without separate news pages
+  projects:
+    output: true
+    permalink: /research/:path/
 
 # -----------------------------------------------------------------------------
 # Jekyll settings
@@ -210,7 +213,9 @@ kramdown:
 include:
   - _pages/about.md
   - _pages/blog.md
+  - _pages/news.md
   - _pages/publications.md
+  - _pages/research.md
   - _pages/cv.md
   - _pages/impressum.md
   - _pages/privacy.md
@@ -231,7 +236,7 @@ exclude:
   - package-lock.json
   - _pages/ # only explicitly included pages above are published
   - _books/
-  - _projects/
+  - _projects/?_project.md # template demo projects
   - _teachings/
   - assets/html/
   - assets/jupyter/

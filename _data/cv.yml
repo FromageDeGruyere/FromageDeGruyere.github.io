@@ -50,27 +50,31 @@ cv:
           - "Supervision by Prof. Klaus Stefan Kirch."
           - "Numerical simulation for the n2EDM active magenetic shielding."
 
-    Experience:
+    Work experience:
       - company: University of Kyoto, Japan
         position: SNSF Postdoc.Mobility fellow (planned)
-        location: Kyoto, Japan
+        location: With Prof. Keiji Saito in Kyoto, Japan
         start_date: 2027-02
         end_date: 2029-01
         summary: Postdoctoral researcher with Prof. Keiji Saito.
 
       - company: Institute for Theoretical Physics, TU Wien, Austria
         position: Project assistant, PhD
-        location: Vienna, Austria
+        location: With Prof. Thomas Pohl in Vienna, Austria
         start_date: 2026-05
         end_date: 2027-01
-        summary: Postdoctoral researcher with Prof. Thomas Pohl.
+        highlights:
+          - "Research assistant for ERC Synergy Grant SuperWave (Grant DOI: [10.3030/101071882](https://doi.org/10.3030/101071882))."
+          - "Research assistant for FWF quantA project (Grant DOI: [10.55776/COE1](https://doi.org/10.55776/COE1))."
 
       - company: Atominstitute, TU Wien, Austria
         position: Project assistant, MSc
         location: Vienna, Austria
         start_date: 2022-10
         end_date: 2026-04
-        summary: Research assistant for Horizon Europe project ASPECTS.
+        highlights: 
+          - "Research assistant for Horizon Europe project ASPECTS (Grant DOI: [10.3030/101080167](https://doi.org/10.3030/101080167))."
+          - "Research assistant for ERC Consolidator Grant Cocoquest (Grant DOI: [10.3030/101043705](https://doi.org/10.3030/101043705))."
 
       - company: ETH Zurich, D-PHYS and D-MATH, Switzerland
         position: Teaching Assistant
