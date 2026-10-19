@@ -64,7 +64,7 @@ To give an overview of the topics I have been working on (and am still working o
 
 If time and clocks are fascinating topics to you as well, please do not hesitate to reach out through the email given on this [subpage]({{ '/cv/' | relative_url }}). There is also very good literature I am happy to recommend on this topic.
 
-A talk of mine on this topic from my old days (ok, it is actually not so long ago). See this [YouTube Video](https://www.youtube.com/watch?v=IQnLb8eF--M) from the Time in Quantum Theory (TiQT) 2023 in Westport, Ireland.
+For a talk I gave on this topic many years ago (ok, not so many years ago), see this [YouTube Video](https://www.youtube.com/watch?v=IQnLb8eF--M) from the Time in Quantum Theory (TiQT) 2023 in Westport, Ireland.
 
 ### Selection of relevant works
 

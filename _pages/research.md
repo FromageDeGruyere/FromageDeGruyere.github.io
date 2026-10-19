@@ -14,7 +14,7 @@ _styles: >-
   }
 ---
 
-Well done, you have found the overview over the research directions I work on. Click any of the tiles below to see some more details over the research questions I care about. Please do reach out if you care about any of those questions as well.
+Well done, you have found the overview of the research directions I work on. Click any of the tiles below to see some more details of the research questions I care about. Please do reach out if you care about any of those questions as well.
 
 <!-- pages/research.md -->
 <div class="projects">

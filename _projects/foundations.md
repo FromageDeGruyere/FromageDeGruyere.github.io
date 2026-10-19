@@ -51,23 +51,23 @@ Under reasonable assumptions, the subsystem then usually equilibrates.
 The exact conditions under which this happens are far from obvious and are a subject of study themselves.
 
 **Equilibration on average:** 
-It turns out, however, when examined through an observable, not only a subsystem, but often the full isolated system equilibrates.
+It turns out, however, that when examined from the perspective of an observable, it is not only the subsystem, but often also the full isolated system that equilibrates.
 Due to the unitarity of the underlying Schrödinger evolution, _true_ equilibration can of course not occur.
 An initially pure state will remain eternally pure and (for finite dimensional systems) return arbitrarily closely to its initial state.
 For sufficiently large systems, with the appropriate spectrum, what happens instead is the following:
-expectation values of observables tend and stay close to a _typical_ value for most of the evolution time.
+expectation values of observables tend towards, and then stay close to, a _typical_ value for most of the evolution time.
 Here, equilibrium is understood in a statistical sense.
 
 **Eigenstate thermalization:** 
 Thermalization is a stronger concept than equilibration.
 The latter is simply about a physical system tending towards _some_ equilibrium state, whereas thermalization requires that this state be thermal.
-One of the most prominent keywords in this context is the eigenstate thermalization hypothesis.
+A key concept in this context is the eigenstate thermalization hypothesis.
 In simplified terms, it states that eigenstates of a Hamiltonian look thermal with respect to local observables.
 As the name suggests, this is a hypothesis.
 Many systems and Hamiltonians satisfy it heuristically, but rigorously proving this is often quite hard.
 
 **Miscellaneous:**
-Aside from the above approaches, I am also interested in concepts about
+Aside from the above approaches, I am also interested in understanding;
 - Typicality. I really recommend reading the mathematical works by Vogel, Tumulka et al., for example: arXiv:[2210.10018 [quant-ph (2022)]](https://arxiv.org/abs/2210.10018) or arXiv:[2307.15624 [quant-ph] (2023)](https://arxiv.org/abs/2307.15624)
 - Observable notions of entropy, and how does a second law look in isolated systems? Personal recommendation: _Unification of observational entropy with maximum entropy principles_ by Schindler, Strasberg et al. arXiv:[2503.15612 [quant-ph] (2025)](https://arxiv.org/abs/2503.15612)
 - When do systems not equilibrate?

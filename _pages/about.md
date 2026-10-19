@@ -13,10 +13,10 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
 
 ai_statement: >-
-  All text and figures on this website are of genuine human origin. I use Grammarly to de-Germanify my English writing. AI helped me configure the website theme, which is linked in the footer. We should gain sovereignty from the few AI monopolists and support open-weight models. Clankers and toasters are no substitute for genuine human understanding. Use them thoughtfully.
+  All text and figures on this website are of genuine human origin. I had help from <a href="https://quoi-theory.at/tom-rivlin" target="_blank">Tom Rivlin</a> and Grammarly to de-Germanify my English writing. I used AI to configure the website theme (see footer). We should gain sovereignty from the few AI monopolists and support open-weight models. Clankers and toasters are no substitute for genuine human understanding. Use them thoughtfully.
 
 random_disclaimer: >-
-  Be careful, some animals went lose during the construction of this website. Can you please bring them back to me? <span style="color: var(--global-bg-color);">Also: why are the animals hiding dairy products on a website. And why are you reading this text even?</span>
+  Be careful, some animals went loose during the construction of this website. Can you please bring them back to me? <span style="color: var(--global-bg-color);">Also: why are the animals hiding dairy products on a website. And why are you reading this text even?</span>
 
 announcements:
   enabled: true # includes a list of news items
@@ -37,7 +37,7 @@ I research clocks, not only because I am from Switzerland, but because a better 
 This is what I mostly work on in my research, using tools from non-equilibrium quantum systems, stochastic thermodynamics, and many-body physics. I am also thinking about other topics, an overview of which is:
 - Quantum time crystals, limit cycles and the thermodynamics of stability
 - How can we reconcile macroscopic/coarse-grained equilibrium behavior with an underlying time-reversal symmetric (Schrödinger) description of quantum systems?
-- How is computational performance, and how are computational notions of complexity related to physical thermodynamic quantities?
+- How do physical thermodynamic quantities relate to the performance of computers, and to computational notions of complexity?
 - Can we find a fully self-contained, thermodynamic description for quantum control?
 
 You can find more details on my research on [this page]({{ '/research/' | relative_url }}). 
