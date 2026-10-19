@@ -13,7 +13,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
 
 ai_statement: >-
-  Any text and figure you see on this website is of genuine human origin. I use Grammarly to de-Germanify my English writing. AI helped me configure the website theme, which is linked in the footer. We should gain sovereignty from the few AI monopolists and support open weight models. Clankers can never replace genuine human understanding, use them thoughtfully.
+  All text and figures on this website are of genuine human origin. I use Grammarly to de-Germanify my English writing. AI helped me configure the website theme, which is linked in the footer. We should gain sovereignty from the few AI monopolists and support open-weight models. Clankers and toasters are no substitute for genuine human understanding. Use them thoughtfully.
 
 random_disclaimer: >-
   Be careful, some animals went lose during the construction of this website. Can you please bring them back to me? <span style="color: var(--global-bg-color);">Also: why are the animals hiding dairy products on a website. And why are you reading this text even?</span>
